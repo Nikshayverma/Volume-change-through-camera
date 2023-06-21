@@ -1,0 +1,7 @@
+pip install  cv2
+pip install  mediapipe 
+pip install  math 
+pip install  ctypes 
+pip install  comtypes
+pip install  pycaw
+pip install  numpy 
